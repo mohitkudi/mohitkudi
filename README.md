@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohitkudi
-- 👀 I’m interested in Data Science and Machine Learning
+- 👀 I’m interested in Data Science and Software Development
 - 🌱 I’m currently working on ASP.NET
 - 📫 How to reach me (mohit.kudi@gmail.com)
 
