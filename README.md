@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohitkudi
 - 👀 I’m interested in Data Science and Software Development
-- 🌱 I’m currently working on ASP.NET
+- 🌱 I’m currently working on ASP.NET and React
 - 📫 How to reach me (mohit.kudi@gmail.com)
 
 <!---
